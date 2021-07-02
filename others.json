@@ -1,0 +1,18 @@
+{
+  "extension": [
+    {
+      "type": "message",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/aa/ce/f6/aacef600-15bb-2bb6-c96c-44eac45072c8/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/380x280sr.webp",
+      "title": "Bear Oliver",
+      "url": "https://apps.apple.com/us/app/id1344498090"
+    }
+  ],
+  "apps": [
+    {
+      "type": "message",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/aa/ce/f6/aacef600-15bb-2bb6-c96c-44eac45072c8/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/380x280sr.webp",
+      "title": "Bear Oliver",
+      "url": "https://apps.apple.com/us/app/id1344498090"
+    }
+  ]
+}
