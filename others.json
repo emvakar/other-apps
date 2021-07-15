@@ -5,14 +5,64 @@
       "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/3e/e2/f9/3ee2f940-289f-4e85-f9a9-857e014b230c/AppIcon-Release-0-1x_U007emarketing-0-7-0-85-220.png/640x0w.jpg",
       "title": "Parlist",
       "desc": "Everyone makes purchases. No matter in a supermarket or online store. Usually people make lists for themselves, but it is not always convenient.\n...",
-      "url": "https://apps.apple.com/us/app/id1531570438"
+      "url": "https://apps.apple.com/app/id1531570438",
+      "id": "1531570438"
+    },
+    {
+      "type": "app",
+      "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/87/36/ca/8736ca36-c647-169a-419e-cf96bbac852a/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/460x0w.png",
+      "title": "Cute Seasons",
+      "desc": "Greetings !!! We are glad to introduce you our game!\n\nBeat the records of other players!...",
+      "url": "https://apps.apple.com/app/id1531570438",
+      "id": "1531570438"
     },
     {
       "type": "message",
       "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/aa/ce/f6/aacef600-15bb-2bb6-c96c-44eac45072c8/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/640x0w.jpg",
       "title": "Bear Oliver",
-      "desc": "Lorem Ipsum - это текст-\"рыба\", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной \"рыбой\" для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.",
-      "url": "https://apps.apple.com/us/app/id1344498090"
+      "desc": "Bear Oliver stickers, back to our messages!\nTry a new stickers in action!\nShare your mood with friends!\n\nAnd there has passed enough time …",
+      "url": "https://apps.apple.com/app/id1344498090",
+      "id": "1344498090"
+    },
+    {
+      "type": "message",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/5e/b6/8e/5eb68ec5-e493-51f1-b669-e13a7f889225/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/460x344sr.png",
+      "title": "Owl Benjamin",
+      "desc": "Hello! Owl Benjamin is back!\nShare your new owl Benjamin with your friends and family!\nGood mood!\n\nWe present you the Owl Benjamin stickers!...",
+      "url": "https://apps.apple.com/app/id1205137528",
+      "id": "1205137528"
+    },
+    {
+      "type": "message",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/29/83/1c/29831c47-f2bd-6082-1aa2-c3176a6483b2/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/460x344sr.png",
+      "title": "Wolf Alex",
+      "desc": "Wolf Alex stickers, back to our messages!\nTry a new stickers in action!\nShare your mood with friends!\n\nIt's a goal!!!...",
+      "url": "https://apps.apple.com/app/id1397057615",
+      "id": "1397057615"
+    },
+    {
+      "type": "message",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/83/ab/db/83abdb93-920c-e35e-b18d-1c41bd22c79c/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/460x344sr.png",
+      "title": "Penguin Kevin",
+      "desc": "Penguin Kevin stickers! Merry Christmas and Happy New Year! Ho-ho-ho!\n\nHappy Christmas ! Wonderful Penguin Kevin!\nShare your emotion with your's friends!\n\nCute Penguin Kevin, present smile to each other!",
+      "url": "https://apps.apple.com/app/id1542453006",
+      "id": "1542453006"
+    },
+    {
+      "type": "message",
+      "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/b9/66/f2/b966f279-f209-5848-8c2c-b3b191d21d63/iMessage_App_Icon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-181-0-0-0-0.png/460x344sr.png",
+      "title": "Words stickers",
+      "desc": "Funny stickers with phrases!\nEnough to write a lot of words, now all popular phrases on stickers!!!",
+      "url": "https://apps.apple.com/app/id1205325288",
+      "id": "1205325288"
+    },
+    {
+      "type": "message",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/63/cf/d5/63cfd5c6-b833-106e-fc46-13da38b02268/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/460x344sr.png",
+      "title": "Pig, Mr. Pig",
+      "desc": "Mr. Pig stickers, back to our messages!\nTry a new stickers in action!\nShare your mood with friends!\n\nWe present you a new set of stickers \"Mr. Pig\"!",
+      "url": "https://apps.apple.com/app/id1390233393",
+      "id": "1390233393"
     }
   ]
 }
